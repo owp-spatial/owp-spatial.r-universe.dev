@@ -22,5 +22,9 @@
     {
         "package": "hydrofabric3D",
         "url": "https://github.com/lynker-spatial/hydrofabric3D"
+    },
+    {
+        "package": "hydrofab",
+        "url": "https://github.com/NOAA-OWP/hydrofab"
     }
 ]
