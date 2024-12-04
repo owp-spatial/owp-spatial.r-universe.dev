@@ -26,5 +26,9 @@
     {
         "package": "hydrofab",
         "url": "https://github.com/NOAA-OWP/hydrofab"
+    },
+    {
+        "package": "AHGestimation",
+        "url": "https://github.com/mikejohnson51/AHGestimation"
     }
 ]
