@@ -8,11 +8,15 @@
         "url": "https://github.com/lynker-spatial/hfsubsetR"
     },
     {
-        "package": "hfsubsetCLI",
-        "url": "https://github.com/lynker-spatial/hfsubsetCLI"
+        "package": "zonal",
+        "url": "https://github.com/mikejohnson51/zonal"
     },
     {
         "package": "climateR",
         "url": "https://github.com/mikejohnson51/climateR"
+    },
+    {
+        "package": "fipio",
+        "url": "https://github.com/program--/fipio"
     }
 ]
