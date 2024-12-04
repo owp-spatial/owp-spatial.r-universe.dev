@@ -1,9 +1,5 @@
 [
     {
-        "package": "hydrofabric",
-        "url": "https://github.com/NOAA-OWP/hydrofabric"
-    },
-    {
         "package": "hfsubsetR",
         "url": "https://github.com/lynker-spatial/hfsubsetR"
     },
@@ -30,9 +26,5 @@
     {
         "package": "AHGestimation",
         "url": "https://github.com/mikejohnson51/AHGestimation"
-    },
-    {
-        "package": "reference.fabric",
-        "url": "https://github.com/lynker-spatial/reference.fabric"
     }
 ]
