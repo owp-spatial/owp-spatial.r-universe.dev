@@ -26,5 +26,13 @@
     {
         "package": "AHGestimation",
         "url": "https://github.com/mikejohnson51/AHGestimation"
+    },
+    {
+        "package": "hydrofabric",
+        "url": "https://github.com/NOAA-OWP/hydrofabric"
+    },
+    {
+        "package": "reference.fabric",
+        "url": "https://github.com/lynker-spatial/reference.fabric"
     }
 ]
