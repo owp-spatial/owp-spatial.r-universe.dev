@@ -34,5 +34,9 @@
     {
         "package": "reference.fabric",
         "url": "https://github.com/lynker-spatial/reference.fabric"
+    },
+    {
+        "package": "RRASSLER",
+        "url": "https://github.com/NOAA-OWP/RRASSLER"
     }
 ]
