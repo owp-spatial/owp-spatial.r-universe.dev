@@ -1,7 +1,7 @@
 [
     {
         "package": "hfsubsetR",
-        "url": "https://github.com/lynker-spatial/hfsubsetR"
+        "url": "https://github.com/owp-spatial/hfsubsetR"
     },
     {
         "package": "zonal",
@@ -33,10 +33,14 @@
     },
     {
         "package": "reference.fabric",
-        "url": "https://github.com/lynker-spatial/reference.fabric"
+        "url": "https://github.com/owp-spatial/reference.fabric"
     },
     {
         "package": "RRASSLER",
         "url": "https://github.com/NOAA-OWP/RRASSLER"
+    },
+    {
+        "package": "elevationSources",
+        "url": "https://github.com/owp-spatial/elevation-sources"
     }
 ]
